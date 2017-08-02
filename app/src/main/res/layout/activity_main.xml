@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="#D4D4D4"
+    android:gravity="center" android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    tools:context=".Practice"
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageButton
+        android:background="#D4D4D4"
+        android:id="@+id/btnSwitch"
+
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:src="@drawable/off"/>
+
+
+</LinearLayout>
